@@ -1,4 +1,4 @@
 # Dynalite
-My repository of Philips Dynalite code and tasks.
+Repo of storing my Philips Dynalite configuration and Home assistant integration.
 
-It is important to note that I am not a qualified Dynalite programmer. I am simply an enthusiast who is automating technology in my house.
+I'm not an expert, I am just learning on the tools.
